@@ -204,7 +204,7 @@ TODO: it the value of parseInt() applied to orderBagels
 */
 
 // * Add your code BELOW here
-let orderBagels = "13 is a Baker\'s Dozen";
+let orderBagels = '13 is a Baker\'s Dozen';
 const bakersDozen = parseInt(orderBagels);
 // * Don't mess with the test code below here!
 
